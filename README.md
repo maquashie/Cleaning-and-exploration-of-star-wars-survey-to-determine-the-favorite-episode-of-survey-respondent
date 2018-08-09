@@ -1,2 +1,2 @@
 # Cleaning-and-exploration-of-star-wars-survey-to-determine-the-favorite-episode-of-survey-respondent
-Independent project to clean, explore and analyse star wars survey to determine the favorite episode of survey respondent
+Independent project to clean, explore and analyse star wars survey to determine the favorite episode of survey respondent.  We also look at educational level of respondents to determine if respondents interests are informed by their level of education. Data for this project is available at the FiveThirtyEight website.
